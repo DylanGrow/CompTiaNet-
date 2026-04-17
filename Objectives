@@ -1,4 +1,4 @@
-Network+ (V9) exam objectives summary
+Network+ (V9) exam objectives summary https://www.comptia.org/en-us/certifications/network/#objectives
 
 Networking concepts (23%)
 
@@ -18,6 +18,8 @@ Routing technologies: static and dynamic routing (BGP, EIGRP, OSPF), route selec
 Switching technologies: VLANs, interface configuration, spanning tree, MTU, and jumbo frames.
 Wireless devices: channels, frequency options, SSID, network types, encryption, guest networks, authentication, antennas, and access points.
 Physical installations: installation implications, power considerations, and environmental factors.
+
+
 Network operations (19%)
 
 Documentation: physical vs. logical diagrams, rack diagrams, cable maps, network diagrams, asset inventory, IPAM, SLA, and wireless surveys.
@@ -30,6 +32,7 @@ Network services: DHCP, SLAAC, DNS, NTP, PTP, and NTS.
 Access and management: VPNs, SSH, GUI, API, and console.
 
 Network security (14%)
+
 Logical security: encryption (data in transit/rest), PKI, IAM, MFA, SSO, RADIUS, LDAP, SAML, TACACS+, time-based authentication, authorization, least privilege, role-based access control, and geofencing.
 Physical security: cameras and locks.
 Deception technologies: honeypot and honeynet.
@@ -40,6 +43,7 @@ Types of attacks: DoS/DDoS, VLAN hopping, MAC flooding, ARP poisoning/spoofing, 
 Security features and defense: device hardening, NAC, key management, ACL, URL/content filtering, trusted vs. untrusted zones, and screened subnet.
 
 Network troubleshooting (24%)
+
 Troubleshooting methodology: identifying the problem, establishing a theory, testing, planning, and implementing a solution, verifying functionality, and documenting findings.
 Cabling and physical interface issues: cable issues (incorrect type, signal degradation, improper termination, TX/RX transposed), interface issues (increasing counters, port status), and hardware issues (PoE, transceiver mismatch, signal strength).
 Network services issues: switching issues (STP, VLAN assignment, ACLs), routing issues (routing table and default routes), address pool exhaustion, and incorrect gateway/IP/subnet mask.
