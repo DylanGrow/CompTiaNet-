@@ -1,4 +1,4 @@
-<a href="https://subnetipv4.com/">Practice Subnetting Websites</a>
+<a href="https://subnetipv4.com/">Practice Subnetting Website</a>
 
 <a href="https://1drv.ms/x/c/28d75fdeb580350d/IQA8ZtulM3f4RbJDetY9voU1ATWOAVJXUPwmLCa0WSbw_-k?e=rICHX2">Subnetting Whiteboard</a>
 
