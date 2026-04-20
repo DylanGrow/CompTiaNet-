@@ -1,0 +1,15 @@
+OSI Model
+Layer 2: The Neighborhood Driver (Data Link) Layer 2 is for local traffic (MACs/Switches).
+The Mission: Moves data between devices on the same local network (LAN).
+The ID: Uses MAC Addresses (permanent hardware IDs).
+The MVP: The Switch. It’s like a smart power strip that knows exactly which port your laptop is plugged into.
+
+Layer 3: The Global GPS (Network) 
+Layer 3 is for global travel (IPs/Routers).
+Think of it as: Delivering a pizza to a specific apartment in your building.
+The Mission: Routes data across different networks (the Internet).
+The ID: Uses IP Addresses (logical locations that can change).
+The MVP: The Router. It looks at the "city and zip code" (IP) to decide which highway to take.
+Think of it as: Shipping a package from New York to London.
+
+
